@@ -1,5 +1,5 @@
-# spicetify-snippets
-Snippets for my Spcietify
+# spicetify
+my spicetify stuff!
 
 Spicetify Setup:
 
