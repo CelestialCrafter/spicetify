@@ -1,0 +1,5 @@
+/* Disable-Non-Folders-in-Library */
+
+.main-yourLibraryX-listItem:not(.main-useDropTarget-folder) {
+    display: none
+}
