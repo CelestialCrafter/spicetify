@@ -1,2 +1,15 @@
 # spicetify-snippets
 Snippets for my Spcietify
+
+Spicetify Setup:
+
+Theme: Comfy (Rose Pine)
+Extensions:
+- Adblock
+- Korean Romaja Lyrics
+- Japanese Romaji Lyrics
+- Imaged Folders
+- Spicetify-Hide-Podcasts
+- Image Opener
+- Spotify Genres
+- Extended Copy
