@@ -1,0 +1,5 @@
+/* Disable-Library-Pin-Icon */
+
+.main-yourLibraryX-listRowSubtitleLeadingWrapper {
+  display: none !important;
+}
