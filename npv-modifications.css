@@ -5,8 +5,9 @@
 }
 
 .npv-cover-art {
-  bottom: 14em;
+  bottom: 14em !important;
 }
+
 .npv-track {
-  bottom: 14.5em;
+  bottom: 14.5em !important;
 }
