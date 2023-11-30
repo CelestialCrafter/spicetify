@@ -1,0 +1,12 @@
+/* NPV-Modifications */
+
+.npv-main-container .playback-bar, .npv-main-container [aria-label="Save to Your Library"] {
+  display: none;
+}
+
+.npv-cover-art {
+  bottom: 14em;
+}
+.npv-track {
+  bottom: 14.5em;
+}
