@@ -4,6 +4,7 @@ my spicetify stuff!
 Spicetify Setup:
 
 Theme: Comfy (Rose Pine)
+
 Extensions:
 - Adblock
 - Korean Romaja Lyrics
