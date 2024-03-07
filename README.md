@@ -12,5 +12,4 @@ Extensions:
 - Imaged Folders
 - Spicetify-Hide-Podcasts
 - Image Opener
-- Spotify Genres
 - Extended Copy
