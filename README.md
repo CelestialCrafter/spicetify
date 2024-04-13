@@ -3,7 +3,11 @@ my spicetify stuff!
 
 Spicetify Setup:
 
-Theme: Comfy (Rose Pine)
+Theme: Ziro (pywal colors)
+
+Apps:
+- Marketplace
+- Stats
 
 Extensions:
 - Adblock
@@ -13,3 +17,4 @@ Extensions:
 - Spicetify-Hide-Podcasts
 - Image Opener
 - Extended Copy
+- Last.fm Stats
