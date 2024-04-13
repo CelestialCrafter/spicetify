@@ -8,6 +8,7 @@ Theme: Ziro (pywal colors)
 Apps:
 - Marketplace
 - Stats
+- lyrics-plus
 
 Extensions:
 - Adblock
