@@ -9,6 +9,7 @@ Apps:
 - Marketplace
 - Stats
 - lyrics-plus
+- Library
 
 Extensions:
 - Adblock
@@ -18,4 +19,6 @@ Extensions:
 - Spicetify-Hide-Podcasts
 - Image Opener
 - Extended Copy
-- Last.fm Stats
+- Convert japanese
+- Power bar
+- Full App Display Modified
