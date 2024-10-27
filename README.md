@@ -3,16 +3,15 @@ my spicetify stuff!
 
 Spicetify Setup:
 
-Theme: Ziro (pywal colors)
+Theme: Ziro (rose pine dawn)
 
 Apps:
 - Marketplace
 - Stats
 - lyrics-plus
-- Library
 
 Extensions:
-- Adblock
+- adblockify
 - Korean Romaja Lyrics
 - Japanese Romaji Lyrics
 - Imaged Folders
