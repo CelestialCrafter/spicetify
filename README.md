@@ -17,3 +17,7 @@ Extensions:
 - Spicetify-Hide-Podcasts
 - Extended Copy
 - Convert japanese
+- HomeWhereYouBelong
+- SpicyTracker
+- Daily Mix URL Fixer
+- Seek Song Keybinds
